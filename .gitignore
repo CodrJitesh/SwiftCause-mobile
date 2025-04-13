@@ -25,3 +25,19 @@ replay_pid*
 
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
 .kotlin/
+
+# Firebase
+google-services.json
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
+build/
+
+# IntelliJ
+*.iml
+out/
+
+# macOS
+.DS_Store
