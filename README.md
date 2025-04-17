@@ -39,5 +39,5 @@ This repository contains the source code for the mobile applications (Android an
 To clone the Swift Cause mobile repository, use the following command:
 
 ```bash
-git clone 
-cd swift-cause-mobile
+git clone https://github.com/YNVSolutions/SwiftCause-mobile.git
+cd SwiftCause-mobile
