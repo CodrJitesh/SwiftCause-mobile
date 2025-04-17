@@ -21,3 +21,23 @@ This repository contains the source code for the mobile applications (Android an
 * **Push Notifications:** Stay informed about campaign progress and updates via Firebase Cloud Messaging.
 * **UK-Specific Features:** Integration with Gift Aid processes (where applicable).
 
+## Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
+![SumUp](https://img.shields.io/badge/SumUp-1AB394?style=for-the-badge&logo=sumup&logoColor=white)
+
+## Getting Started
+
+### Project Clone
+
+To clone the Swift Cause mobile repository, use the following command:
+
+```bash
+git clone 
+cd swift-cause-mobile
